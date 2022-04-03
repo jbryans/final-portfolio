@@ -54,3 +54,25 @@ a{
     
    
 }
+
+.btn{
+    background-color: #AA96DB;
+    color: orange;
+    margin-top: 10px;
+}
+.btn:hover{
+    color: #AA96DB;
+    background-color: greenyellow;
+}
+h1{
+    color: gray;
+    padding-bottom: 10px;
+}
+
+.form-label{
+    padding: 10px;
+    color: gray;
+}
+.form-control{
+    background-color: #F4D5CE ;
+}
