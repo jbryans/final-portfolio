@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital@1&family=Mulish:wght@500&family=Open+Sans:wght@500&family=Roboto:wght@900&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+a{
+    color: #AA96DB ;
+}
+.navbar-brand a:hover{
+    color: gray;
+}
+.navbar-brand {
+    color: orange;
+}
+
+.act {
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+
+.navbar ul li{
+    color: white;
+}
+
+.navbar ul li a:hover {
+    color: orange;
+    border-bottom: 2px solid orange;
+
+}
+
+.navbar-toggler{
+    background-color: #AA96DB;
+    border:none;
+    padding: 10px 6px;
+    outline: none;
+    transition-duration: 0.4s;
+}
+.navbar-toggler span{
+    display: block;
+    width: 22px;
+    height: 2px;
+    border: 1px;
+    background: orange;
+   
+}
+.navbar-toggler:hover{
+    background-color: orange;
+    
+   
+}
